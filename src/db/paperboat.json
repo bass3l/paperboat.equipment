@@ -1,0 +1,43 @@
+{
+"meta" : {
+    "name": "PaperBoat",
+    "version": "1.0.0",
+    "hashContent": "rom",
+    "comment": "PaperBoat supported/unsupported ROM revisions"
+},
+"3837F44CDA784B466C9A2D99DF70D77C322B97A0": {
+    "shortName": "NTSC-U",
+    "fullName": "Paper Mario (USA)",
+    "supported": true,
+    "formats": ["cart"],
+    "region": "NTSC-U"
+},
+"B9CCA3FF260B9FF427D981626B82F96DE73586D3": {
+    "shortName": "NTSC-J",
+    "fullName": "Mario Story (Japan)",
+    "supported": false,
+    "formats": ["cart"],
+    "region": "NTSC-J"
+},
+"1273275142B79F7443F55BD35679A19670ADFE3A": {
+    "shortName": "PAL",
+    "fullName": "Paper Mario (Europe) (En,Fr,De,Es)",
+    "supported": false,
+    "formats": ["cart"],
+    "region": "PAL"
+},
+"5C724685085EBA796537573DD6F84AADDEDC8582": {
+    "shortName": "iQue",
+    "fullName": "Zhipian Maliou (China) (v4)",
+    "supported": false,
+    "formats": ["builtin"],
+    "region": "iQue"
+},
+"C54905138E67DAADDC6DEF94E76F626C4FBC81F7": {
+    "shortName": "LodgeNet",
+    "fullName": "Paper Mario (USA) (LodgeNet)",
+    "supported": false,
+    "formats": ["hotel"],
+    "region": "NTSC-U"
+}
+}

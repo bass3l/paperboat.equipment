@@ -76,7 +76,7 @@ function RomData(rom, hashAlgos, progressCallback) {
             this.hashes = [];
         });
     
-    var dbGetPromise = romDb('2ship')
+    var dbGetPromise = romDb('paperboat')
         .catch(err => {
             console.error(err);
             return null;
